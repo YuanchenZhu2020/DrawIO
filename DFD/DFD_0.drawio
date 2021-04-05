@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T16:08:44.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="FUEtvuwM-UMXqZg1Tq02" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T16:14:05.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="M4YVYF6d5212YtYs0_Wk" version="14.5.7" type="github">
   <diagram id="X21JkDmJbvydBPUjWJ2F" name="Page-1">
-    <mxGraphModel dx="990" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="825" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IwfWpi3OEJR8O0GezmDY-14" value="提出采购申请、&lt;br&gt;货款交割申请、&lt;br&gt;供货合同签订申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-13">
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-14" value="提出采购申请、&lt;br&gt;货款交割申请、&lt;br&gt;供货合同签订申请、&lt;br&gt;补货审批信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-13">
           <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -114,7 +114,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IwfWpi3OEJR8O0GezmDY-26" value="采购审批信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-25">
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-26" value="顾客缴费信息、&lt;br&gt;采购审批信息、&lt;br&gt;供货合同签订批准信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-25">
           <mxGeometry x="-0.297" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -130,7 +130,7 @@
         <mxCell id="IwfWpi3OEJR8O0GezmDY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=100;entryDy=55;entryPerimeter=0;shadow=1;fontSize=14;" edge="1" parent="1" source="-rMz-R6PVjzOVINi04i2-4" target="IwfWpi3OEJR8O0GezmDY-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwfWpi3OEJR8O0GezmDY-22" value="采购申请信息、&lt;br&gt;供货合同签订申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-21">
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-22" value="顾客订单缴费、&lt;br&gt;采购申请信息、&lt;br&gt;供货合同签订申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-21">
           <mxGeometry x="-0.1974" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -156,8 +156,10 @@
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IwfWpi3OEJR8O0GezmDY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=77.5;entryDy=100;entryPerimeter=0;shadow=1;fontSize=14;exitX=0.544;exitY=-0.08;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-rMz-R6PVjzOVINi04i2-2" target="IwfWpi3OEJR8O0GezmDY-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=77.5;entryDy=100;entryPerimeter=0;shadow=1;fontSize=14;" edge="1" parent="1" target="IwfWpi3OEJR8O0GezmDY-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439" y="287" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IwfWpi3OEJR8O0GezmDY-32" value="批准增减兼职雇员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-31">
           <mxGeometry x="-0.3794" y="-2" relative="1" as="geometry">
