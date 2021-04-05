@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T16:14:05.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="M4YVYF6d5212YtYs0_Wk" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T16:36:49.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="nTjBqnuJMOrFo8RYEsSp" version="14.5.7" type="github">
   <diagram id="X21JkDmJbvydBPUjWJ2F" name="Page-1">
     <mxGraphModel dx="825" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,8 +62,21 @@
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;shadow=1;fontSize=14;" edge="1" parent="1" source="dFswPmYol0sfpQt9PpZ7-3" target="-rMz-R6PVjzOVINi04i2-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="640" />
+              <mxPoint x="380" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-34" value="食品加工进度与质量信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-33">
+          <mxGeometry x="0.2567" y="4" relative="1" as="geometry">
+            <mxPoint x="-26" y="174" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dFswPmYol0sfpQt9PpZ7-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&amp;nbsp; 食物加工&lt;br&gt;&amp;nbsp; 部门&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;sketch=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="630" width="100" height="100" as="geometry" />
+          <mxGeometry x="340" y="780" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dFswPmYol0sfpQt9PpZ7-4" value="5" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" parent="dFswPmYol0sfpQt9PpZ7-3" vertex="1">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
@@ -149,22 +162,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IwfWpi3OEJR8O0GezmDY-27" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&amp;nbsp; 人力资源&lt;br&gt;&amp;nbsp; 经理&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;sketch=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-40" width="100" height="100" as="geometry" />
+          <mxGeometry x="280" y="-50" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IwfWpi3OEJR8O0GezmDY-28" value="2" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="IwfWpi3OEJR8O0GezmDY-27">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IwfWpi3OEJR8O0GezmDY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=77.5;entryDy=100;entryPerimeter=0;shadow=1;fontSize=14;" edge="1" parent="1" target="IwfWpi3OEJR8O0GezmDY-27">
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=77.5;entryDy=100;entryPerimeter=0;shadow=1;fontSize=14;exitX=0.148;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-rMz-R6PVjzOVINi04i2-2" target="IwfWpi3OEJR8O0GezmDY-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439" y="287" as="sourcePoint" />
+            <mxPoint x="439" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IwfWpi3OEJR8O0GezmDY-32" value="批准增减兼职雇员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-31">
           <mxGeometry x="-0.3794" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontSize=14;entryX=0.877;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-rMz-R6PVjzOVINi04i2-4" target="dFswPmYol0sfpQt9PpZ7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="364" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-36" value="加工食品需求与期限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-35">
+          <mxGeometry x="-0.5593" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="195.83" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;总经理&lt;br&gt;（销售）&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-38" value="7" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="IwfWpi3OEJR8O0GezmDY-37">
+          <mxGeometry width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="15" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;fontSize=14;" edge="1" parent="IwfWpi3OEJR8O0GezmDY-37" source="IwfWpi3OEJR8O0GezmDY-38" target="IwfWpi3OEJR8O0GezmDY-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
