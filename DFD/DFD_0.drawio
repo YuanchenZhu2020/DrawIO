@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T15:21:55.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="IPazg5ehY_Mwl3-jv1q0" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T16:08:44.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="FUEtvuwM-UMXqZg1Tq02" version="14.5.7" type="github">
   <diagram id="X21JkDmJbvydBPUjWJ2F" name="Page-1">
     <mxGraphModel dx="990" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,12 +135,33 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.296;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;fontSize=14;" edge="1" parent="1" source="IwfWpi3OEJR8O0GezmDY-27" target="-rMz-R6PVjzOVINi04i2-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="175" />
+              <mxPoint x="389" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-30" value="提出增减兼职雇员的申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-29">
+          <mxGeometry x="-0.2637" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IwfWpi3OEJR8O0GezmDY-27" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&amp;nbsp; 人力资源&lt;br&gt;&amp;nbsp; 经理&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;sketch=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="-40" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IwfWpi3OEJR8O0GezmDY-28" value="2" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="IwfWpi3OEJR8O0GezmDY-27">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
             <mxPoint x="15" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=77.5;entryDy=100;entryPerimeter=0;shadow=1;fontSize=14;exitX=0.544;exitY=-0.08;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-rMz-R6PVjzOVINi04i2-2" target="IwfWpi3OEJR8O0GezmDY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-32" value="批准增减兼职雇员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-31">
+          <mxGeometry x="-0.3794" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
