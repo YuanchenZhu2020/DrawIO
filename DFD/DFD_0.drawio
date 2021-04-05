@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T13:55:50.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="DHMi66Da_1TtlHIMNUuK" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T14:24:44.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="RKODwyGHxg8NtcWGtC19" version="14.5.7" type="github">
   <diagram id="X21JkDmJbvydBPUjWJ2F" name="Page-1">
     <mxGraphModel dx="990" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="IwfWpi3OEJR8O0GezmDY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;fontSize=14;" edge="1" parent="1" source="n53CaU5DFC7jTHlF9Mrl-5" target="-rMz-R6PVjzOVINi04i2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwfWpi3OEJR8O0GezmDY-8" value="提出补货申请、&lt;br&gt;提交库存盘点结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-6">
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-8" value="提出补货申请、&lt;br&gt;提交库存盘点结果、&lt;br&gt;提交原料变质损失情况" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-6">
           <mxGeometry x="-0.0872" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -77,7 +77,7 @@
         <mxCell id="IwfWpi3OEJR8O0GezmDY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=100;entryPerimeter=0;shadow=1;fontSize=14;" edge="1" parent="1" source="-rMz-R6PVjzOVINi04i2-4" target="n53CaU5DFC7jTHlF9Mrl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwfWpi3OEJR8O0GezmDY-10" value="返回账面库存情况、&lt;br&gt;补货申请结果、&lt;br&gt;新进订单的材料需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-9">
+        <mxCell id="IwfWpi3OEJR8O0GezmDY-10" value="返回账面库存情况、&lt;br&gt;补货申请结果、&lt;br&gt;新进订单的原料需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="IwfWpi3OEJR8O0GezmDY-9">
           <mxGeometry x="0.3714" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
