@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T03:02:24.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="5_377drpztYHItEdBLcJ" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T03:13:26.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="3s2XoRV_68ZuDPHVrePs" version="14.5.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1817" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;库存&lt;br&gt;负责人&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;sketch=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="-260" width="100" height="100" as="geometry" />
+          <mxGeometry x="220" y="-390" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-5" value="3" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="mS8Wi9VP1vNNWBXcDTI1-4">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;采购&lt;br&gt;负责人&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;sketch=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="610" width="100" height="100" as="geometry" />
+          <mxGeometry x="810" y="770" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-7" value="4" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="mS8Wi9VP1vNNWBXcDTI1-6">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&amp;nbsp; 食物加工&lt;br&gt;&amp;nbsp; 部门&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;sketch=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="260" width="100" height="100" as="geometry" />
+          <mxGeometry x="780" y="270" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-9" value="5" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="mS8Wi9VP1vNNWBXcDTI1-8">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;财务&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;fontSize=14;shadow=1;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="630" width="100" height="100" as="geometry" />
+          <mxGeometry x="780" y="-320" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-11" value="6" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="mS8Wi9VP1vNNWBXcDTI1-10">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&amp;nbsp; 人力资源&lt;br&gt;&amp;nbsp; 经理&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;sketch=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="-260" width="100" height="100" as="geometry" />
+          <mxGeometry x="325" y="780" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-13" value="2" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="mS8Wi9VP1vNNWBXcDTI1-12">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&amp;nbsp;销售与&lt;br&gt;&amp;nbsp;客户部门&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;shadow=1;sketch=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-60" y="510" width="100" height="100" as="geometry" />
+          <mxGeometry x="-70" y="410" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-15" value="7" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="mS8Wi9VP1vNNWBXcDTI1-14">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
@@ -87,6 +87,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-43" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS8Wi9VP1vNNWBXcDTI1-17" target="mS8Wi9VP1vNNWBXcDTI1-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-44" value="订单所需产品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mS8Wi9VP1vNNWBXcDTI1-43">
+          <mxGeometry x="-0.2767" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-17" value="&lt;div&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Process-1&lt;/b&gt;&lt;/div&gt;&lt;hr&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;分析并储存订单信息&lt;/b&gt;&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;shadow=1;sketch=1;strokeColor=#000000;strokeWidth=3;fillColor=#B9E0A5;overflow=visible;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="55" width="150" height="70" as="geometry" />
         </mxCell>
@@ -98,8 +106,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;D2&amp;nbsp; &amp;nbsp; 订单信息文件&lt;/b&gt;&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="250" width="140" height="40" as="geometry" />
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;D2&amp;nbsp; &amp;nbsp; 订单信息文件&lt;/b&gt;&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="210" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-28" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS8Wi9VP1vNNWBXcDTI1-24" target="mS8Wi9VP1vNNWBXcDTI1-27">
           <mxGeometry relative="1" as="geometry" />
@@ -109,8 +117,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;D1&amp;nbsp; &amp;nbsp; 客户信息文件&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#B9E0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="250" width="160" height="40" as="geometry" />
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;D1&amp;nbsp; &amp;nbsp; 客户信息文件&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="210" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-30" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=100;entryDy=55;entryPerimeter=0;shadow=1;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS8Wi9VP1vNNWBXcDTI1-27" target="mS8Wi9VP1vNNWBXcDTI1-14">
           <mxGeometry relative="1" as="geometry" />
@@ -121,13 +129,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-27" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Process-2&lt;/font&gt;&lt;/b&gt;&lt;hr style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;通知客户信息&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#B9E0A5;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="380" width="140" height="90" as="geometry" />
+          <mxGeometry x="105" y="320" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-37" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=100;entryDy=77.5;entryPerimeter=0;shadow=1;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS8Wi9VP1vNNWBXcDTI1-34" target="mS8Wi9VP1vNNWBXcDTI1-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="390" y="425" />
               <mxPoint x="270" y="425" />
-              <mxPoint x="270" y="588" />
+              <mxPoint x="270" y="488" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -137,7 +146,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-34" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Process-3&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;hr style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;通知订单信息&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#B9E0A5;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="385" width="130" height="80" as="geometry" />
+          <mxGeometry x="325" y="325" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-46" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS8Wi9VP1vNNWBXcDTI1-41" target="mS8Wi9VP1vNNWBXcDTI1-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;D3&amp;nbsp; &amp;nbsp; 未完订单所需产品文件&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="-60" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-45" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Process-4&lt;/font&gt;&lt;/b&gt;&lt;hr style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;分析库存变动情况&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#B9E0A5;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207.5" y="-190" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-47" value="订单所需产品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-49" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS8Wi9VP1vNNWBXcDTI1-48" target="mS8Wi9VP1vNNWBXcDTI1-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="-40" />
+              <mxPoint x="410" y="-155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-50" value="当前库存信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mS8Wi9VP1vNNWBXcDTI1-49">
+          <mxGeometry x="0.1783" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;D4&amp;nbsp; &amp;nbsp; 库存信息文件&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="-60" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
