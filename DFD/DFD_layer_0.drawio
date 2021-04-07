@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T08:45:32.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="MNQkrV-MrPB78E1E1Bab" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T08:54:30.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="lwwjaTbfejS1HX9aIpSi" version="14.5.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1992" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&amp;nbsp; 人力资源&lt;br&gt;&amp;nbsp; 经理&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity;sketch=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="560" width="100" height="100" as="geometry" />
+          <mxGeometry x="540" y="550" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-13" value="2" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" parent="mS8Wi9VP1vNNWBXcDTI1-12" vertex="1">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
@@ -167,7 +167,7 @@
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-46" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS8Wi9VP1vNNWBXcDTI1-41" target="mS8Wi9VP1vNNWBXcDTI1-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-54" value="订单所需产品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mS8Wi9VP1vNNWBXcDTI1-46" vertex="1" connectable="0">
+        <mxCell id="mS8Wi9VP1vNNWBXcDTI1-54" value="&lt;font style=&quot;font-size: 16px&quot;&gt;订单所需产品信息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mS8Wi9VP1vNNWBXcDTI1-46" vertex="1" connectable="0">
           <mxGeometry x="-0.272" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -208,13 +208,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;D4&amp;nbsp; &amp;nbsp; 库存信息文件&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#99CCFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="455" y="-175" width="160" height="40" as="geometry" />
+          <mxGeometry x="477" y="-175" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-55" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Process-5&lt;/b&gt;&lt;/font&gt;&lt;hr style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;补货申请&lt;/b&gt;&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;shadow=1;sketch=1;strokeWidth=3;align=center;fillColor=#B9E0A5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="215" y="-360" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mS8Wi9VP1vNNWBXcDTI1-58" value="&lt;b style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Process-6&lt;/font&gt;&lt;/b&gt;&lt;hr style=&quot;font-size: 16px&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;生成食品加工安排&lt;/font&gt;&lt;/b&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;shadow=1;sketch=1;strokeWidth=3;fillColor=#B9E0A5;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="50" width="150" height="70" as="geometry" />
+          <mxGeometry x="477" y="50" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
