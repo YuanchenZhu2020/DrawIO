@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T16:04:28.522Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="iM8TZde1K-R7UfIa1xJB" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T16:05:27.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="Zx9SBP2-GUNiT1uJI8ss" version="14.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="990" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,6 +31,9 @@
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Retail Store" style="swimlane;html=1;startSize=20;horizontal=0;shadow=1;sketch=1;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="620" width="680" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-27" value="Customer" style="swimlane;html=1;startSize=20;horizontal=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="680" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
