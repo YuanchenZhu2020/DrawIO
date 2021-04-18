@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T16:47:32.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="R9QZBRiyMLSBQ1DdECWf" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T16:53:09.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="GBo6yawXMzOcKCcAX8Ba" version="14.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="683" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,10 +20,10 @@
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-36" value="&lt;b&gt;Order Information&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="178" y="139" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-68" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-68" value="" style="group;fillColor=#99CCFF;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="170" y="27" width="100" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-69" value="&lt;b&gt;&lt;br&gt;Enter mail order data&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-68">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-69" value="&lt;b&gt;&lt;br&gt;Enter mail order data&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=#99CCFF;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-68">
           <mxGeometry width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-70" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-68">
@@ -80,19 +80,19 @@
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-51" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="317" y="49" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-52" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-52" value="" style="group;strokeColor=#6c8ebf;fillColor=#99CCFF;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="150" y="40" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="&lt;b&gt;&lt;br&gt;Mark the order&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;shadow=1;sketch=1;" parent="e2wK-yW2sYxYP3PSsNnn-52" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="&lt;b&gt;&lt;br&gt;Mark the order&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;shadow=1;sketch=1;fillStyle=auto;fillColor=#99CCFF;" parent="e2wK-yW2sYxYP3PSsNnn-52" vertex="1">
           <mxGeometry width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-39" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-52">
           <mxGeometry x="6" y="5" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-54" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-54" value="" style="group;fillColor=#99CCFF;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="310" y="43" width="100" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-50" value="&lt;b&gt;&lt;br&gt;Collect all forms and input data&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-54">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-50" value="&lt;b&gt;&lt;br&gt;Collect all forms and input data&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=#99CCFF;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-54">
           <mxGeometry y="-5" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-53" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-54">
@@ -107,7 +107,7 @@
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-57" value="" style="group;container=1;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="460" y="43" width="100" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-60" value="" style="group" vertex="1" connectable="0" parent="e2wK-yW2sYxYP3PSsNnn-57">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-60" value="" style="group;fillColor=#99CCFF;" vertex="1" connectable="0" parent="e2wK-yW2sYxYP3PSsNnn-57">
           <mxGeometry y="-5" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-67" value="" style="group" vertex="1" connectable="0" parent="e2wK-yW2sYxYP3PSsNnn-60">
@@ -116,7 +116,7 @@
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-77" value="" style="group" vertex="1" connectable="0" parent="e2wK-yW2sYxYP3PSsNnn-67">
           <mxGeometry width="100" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-58" value="&lt;b&gt;&lt;br&gt;Upload phone order&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-77">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-58" value="&lt;b&gt;&lt;br&gt;Upload phone order&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=#99CCFF;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-77">
           <mxGeometry width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-76" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-77">
@@ -146,10 +146,10 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Retail Store" style="swimlane;html=1;startSize=20;horizontal=0;shadow=1;sketch=1;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="440" width="680" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-81" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-81" value="" style="group;fillColor=#99CCFF;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="70" y="26" width="110" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-78" value="&lt;b&gt;&lt;br&gt;Get sales&#39; order&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-81">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-78" value="&lt;b&gt;&lt;br&gt;Get sales&#39; order&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=#99CCFF;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-81">
           <mxGeometry width="110" height="62" as="geometry" />
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-79" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-81">
@@ -185,22 +185,22 @@
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-93" value="&lt;b&gt;Point-of-sale Data&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-91">
           <mxGeometry y="60" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-96" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-96" value="" style="group;fillColor=#99CCFF;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="295" y="30" width="75" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-87" value="&lt;b&gt;&lt;br&gt;Sales&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-96">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-87" value="&lt;b&gt;&lt;br&gt;Sales&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=#99CCFF;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-96">
           <mxGeometry width="75" height="53" as="geometry" />
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-88" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-96">
           <mxGeometry x="5" y="17" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-97" value="" style="group" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-97" value="" style="group;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="550" y="35" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-100" value="" style="group" vertex="1" connectable="0" parent="e2wK-yW2sYxYP3PSsNnn-97">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-100" value="" style="group;fillColor=#99CCFF;" vertex="1" connectable="0" parent="e2wK-yW2sYxYP3PSsNnn-97">
           <mxGeometry y="-7" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="e2wK-yW2sYxYP3PSsNnn-98" value="&lt;b&gt;&lt;br&gt;Upload point-of-sale data&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-100">
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-98" value="&lt;b&gt;&lt;br&gt;Upload point-of-sale data&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=#99CCFF;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-100">
           <mxGeometry width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-99" value="" style="shape=mxgraph.bpmn.manual_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="e2wK-yW2sYxYP3PSsNnn-100">
