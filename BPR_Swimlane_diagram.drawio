@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T16:09:19.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="_RSGhleIrgcqhFkghBif" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T16:12:06.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="kmWVQo70GEYPaO08Dxg2" version="14.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="990" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,6 +22,9 @@
         </mxCell>
         <mxCell id="e2wK-yW2sYxYP3PSsNnn-31" value="&lt;b&gt;Customer Mail Order&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="25" y="90" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e2wK-yW2sYxYP3PSsNnn-36" value="&lt;b&gt;Order Information&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="190" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Phone-Order System" style="swimlane;html=1;startSize=20;horizontal=0;shadow=1;sketch=1;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="390" width="680" height="230" as="geometry" />
