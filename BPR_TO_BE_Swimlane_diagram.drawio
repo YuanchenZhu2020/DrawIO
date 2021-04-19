@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T01:55:16.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="HThEejE5OLm79JLU9t_i" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T02:25:15.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="h3pr9bD_rMsCQYNvKmFc" version="14.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="990" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,19 @@
           <mxGeometry x="570.5" y="18" width="49" height="50" as="geometry" />
         </mxCell>
         <mxCell id="589XAvg-LLkNVb0MRYLu-3" value="&lt;b&gt;Order Information&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="30" y="28" width="90" height="60" as="geometry" />
+          <mxGeometry x="41" y="28" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="589XAvg-LLkNVb0MRYLu-86" value="" style="group;fillColor=#99CCFF;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="40" y="121" width="100" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="589XAvg-LLkNVb0MRYLu-90" value="" style="group" vertex="1" connectable="0" parent="589XAvg-LLkNVb0MRYLu-86">
+          <mxGeometry width="100" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="589XAvg-LLkNVb0MRYLu-87" value="&lt;b&gt;&lt;br&gt;Distribute &lt;br&gt;orders&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fillColor=#99CCFF;" vertex="1" parent="589XAvg-LLkNVb0MRYLu-90">
+          <mxGeometry width="100" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="589XAvg-LLkNVb0MRYLu-89" value="" style="shape=mxgraph.bpmn.service_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;sketch=1;" vertex="1" parent="589XAvg-LLkNVb0MRYLu-90">
+          <mxGeometry x="10" y="8" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Phone-Order System" style="swimlane;html=1;startSize=20;horizontal=0;shadow=1;sketch=1;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="420" width="680" height="230" as="geometry" />
