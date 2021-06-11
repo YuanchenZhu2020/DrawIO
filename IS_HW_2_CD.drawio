@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T14:45:41.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="RBUE8dTz6DnDnE2NwYkU" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T14:46:28.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="NetKNHjFeKXO1bHE_LRe" version="14.7.7" type="github">
   <diagram id="EGG-6Q-OU1lzlSTcePpb" name="第 1 页">
     <mxGraphModel dx="990" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="GD9CIJNtZin0S3X3Gcfr-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GD9CIJNtZin0S3X3Gcfr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="GD9CIJNtZin0S3X3Gcfr-2" target="GD9CIJNtZin0S3X3Gcfr-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GD9CIJNtZin0S3X3Gcfr-2" value="Sale" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="110" height="50" as="geometry" />
@@ -15,6 +18,12 @@
         </mxCell>
         <mxCell id="GD9CIJNtZin0S3X3Gcfr-4" value="PricingStrategy" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GD9CIJNtZin0S3X3Gcfr-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="160" y="181" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="GD9CIJNtZin0S3X3Gcfr-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="430" y="181" width="200" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
